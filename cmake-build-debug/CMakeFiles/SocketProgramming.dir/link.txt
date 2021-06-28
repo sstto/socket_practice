@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/SocketProgramming.dir/main.c.o CMakeFiles/SocketProgramming.dir/echo_mpserv.c.o -o SocketProgramming 
